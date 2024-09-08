@@ -15,7 +15,7 @@
   
 - Bibliotecas Bootstrap e jQuary, utilizadas no desenvolvimento da página.
   
--  Acesso em: https://jennifer-cabral.github.io/Landing-Page--Atividade-Desenv.-Web/.
+-  Acesso em:https://jennifer-cabral.github.io/Landing-Page--Atividade-Desenv.-WebWeb/.
   
 ### Autor
 
