@@ -15,6 +15,8 @@
   
 - Bibliotecas Bootstrap e jQuary, utilizadas no desenvolvimento da página.
   
+- Projeto com design responsivo para mobile.
+  
 -  Acesso em:https://jennifer-cabral.github.io/Landing-Page--Atividade-Desenv.-WebWeb/.
   
 ### Autor
